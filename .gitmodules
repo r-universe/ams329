@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "mzipmed"]
 	path = mzipmed
-	url = https://github.com/cran/mzipmed
+	url = https://github.com/ams329/mzipmed
 	shallow = true
 	registered = true
